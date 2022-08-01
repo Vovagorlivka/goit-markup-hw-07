@@ -7,16 +7,16 @@
 @import url(./components/_backdrop.scss);
 @import url(./components/_button.scss);
 @import url(./components/_modal.scss);
-@import url(./layouts/_logo.scss);
-@import url(./layouts/_navygation.scss);
-@import url(./layouts/_header.scss);
-@import url(./layouts/_advantage.scss);
-@import url(./layouts/_what-we-do.scss);
-@import url(./layouts/_team.scss);
-@import url(./layouts/_footer.scss);
-@import url(./layouts/_port-filtr.scss);
-@import url(./layouts/_port.scss);
-@import url(./layouts/_footer-subskribe.scss);
-@import url(./layouts/_social.scss);
-@import url(./layouts/_hero.scss);
-@import url(./layouts/_regular-customers.scss);/*# sourceMappingURL=main.css.map */
+@import url(./layouts/_1-1logo.scss);
+@import url(./layouts/_1-2navygation.scss);
+@import url(./layouts/_1-3header.scss);
+@import url(./layouts/_1-5advantage.scss);
+@import url(./layouts/_1-6what-we-do.scss);
+@import url(./layouts/_1-7team.scss);
+@import url(./layouts/_1-10footer.scss);
+@import url(./layouts/_2-2port-filtr.scss);
+@import url(./layouts/_2-1port.scss);
+@import url(./layouts/_1-11footer-subskribe.scss);
+@import url(./layouts/_1-8social.scss);
+@import url(./layouts/_1-4hero.scss);
+@import url(./layouts/_1-9regular-customers.scss);/*# sourceMappingURL=main.css.map */
