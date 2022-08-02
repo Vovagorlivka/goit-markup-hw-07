@@ -2,17 +2,20 @@
     background-color: #2f303a;
     padding-top: 60px;
     padding-bottom: 60px;
+    .container {
+        display: flex;
+        align-items: baseline;
+    }
 }
 
 .footer-adress {
     font-style: normal;
     text-decoration: none;
     margin-bottom: 9px;
-}
-
-.footer-adress:hover,
-.footer-adress:focus {
-    color: #2196f3;
+    &:hover, &:focus {
+        color: #2196f3;
+    }
+    
 }
 
 .footer-phone {
@@ -32,11 +35,9 @@
     font-style: normal;
     color: var(--primary-white-color);
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-map:hover,
-.footer-map:focus {
-    color: var(--accent-color);
+    &:hover, &:focus {
+        color: var(--accent-color);
+    }
 }
 
 .go-go {
@@ -69,11 +70,9 @@
     fill: #ffffff;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1),
         background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-social-link:hover,
-.footer-social-link:focus {
-    background-color: #2196f3;
+        &:hover, &:focus {
+            background-color: #2196f3;
+        }
 }
 
 .box-footer {
@@ -85,3 +84,4 @@
     margin-top: 20px;
     margin-left: 13px;
 }
+
